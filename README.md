@@ -40,7 +40,7 @@ To generate an assembly file that shows the usage of the instructions themselves
 
 
 
-## For Simple example:
+## Simple example:
 
 run 
 ```
